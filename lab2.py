@@ -10,7 +10,7 @@ from tf.transformations import quaternion_from_euler, euler_from_quaternion, qua
 from tf2_msgs.msg import TFMessage
 import cv2
 import numpy
-#import lab2_aux
+# import lab2_aux
 import lab1
 
 # ================================= CONSTANTS ==========================================        
